@@ -1,0 +1,6 @@
+DS_Store
+log/*.log
+temp/**/*
+config/database/yml
+db/*.sqlite
+
